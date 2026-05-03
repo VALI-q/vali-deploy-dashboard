@@ -1,0 +1,30 @@
+[
+  {
+    "value": "XS",
+    "label": "Extra Small ( XS )"
+  },
+  {
+    "value": "S",
+    "label": "Small ( S )"
+  },
+  {
+    "value": "M",
+    "label": "Medium ( M )"
+  },
+  {
+    "value": "L",
+    "label": "Large ( L )"
+  },
+  {
+    "value": "XL",
+    "label": "Extra Large ( XL )"
+  },
+  {
+    "value": "XXL",
+    "label": "Double Extra Large ( XXL )"
+  },
+  {
+    "value": "XXXL",
+    "label": "Triple Extra Large ( XXXL )"
+  }
+]

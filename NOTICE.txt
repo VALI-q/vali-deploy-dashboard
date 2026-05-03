@@ -1,0 +1,13 @@
+Gloryna Dashboard
+
+Copyright © 2026 Gloryna LLC. All rights reserved.
+
+This application is proprietary software owned by Gloryna LLC.
+
+Unauthorized copying, modification, redistribution, reverse engineering,
+or resale is strictly prohibited.
+
+This deployment is licensed for use only by the authorized client.
+
+Website: https://gloryna.com
+Email: contact@gloryna.com

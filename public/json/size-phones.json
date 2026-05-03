@@ -1,0 +1,178 @@
+[
+  {
+    "value": "iPhone_13_Pro",
+    "label": "iPhone 13 Pro"
+  },
+  {
+    "value": "iPhone_13",
+    "label": "iPhone 13"
+  },
+  {
+    "value": "iPhone_13_Mini",
+    "label": "iPhone 13 Mini"
+  },
+  {
+    "value": "iPhone_12_Pro",
+    "label": "iPhone 12 Pro"
+  },
+  {
+    "value": "iPhone_12",
+    "label": "iPhone 12"
+  },
+  {
+    "value": "iPhone_12_Mini",
+    "label": "iPhone 12 Mini"
+  },
+  {
+    "value": "iPhone_11_Pro",
+    "label": "iPhone 11 Pro"
+  },
+  {
+    "value": "iPhone_11",
+    "label": "iPhone 11"
+  },
+  {
+    "value": "iPhone_XS_Max",
+    "label": "iPhone XS Max"
+  },
+  {
+    "value": "iPhone_XS",
+    "label": "iPhone XS"
+  },
+  {
+    "value": "iPhone_XR",
+    "label": "iPhone XR"
+  },
+  {
+    "value": "iPhone_X",
+    "label": "iPhone X"
+  },
+  {
+    "value": "Samsung_Galaxy_S21",
+    "label": "Samsung Galaxy S21"
+  },
+  {
+    "value": "Samsung_Galaxy_S21_Plus",
+    "label": "Samsung Galaxy S21 Plus"
+  },
+  {
+    "value": "Samsung_Galaxy_S21_Ultra",
+    "label": "Samsung Galaxy S21 Ultra"
+  },
+  {
+    "value": "Samsung_Galaxy_S20",
+    "label": "Samsung Galaxy S20"
+  },
+  {
+    "value": "Samsung_Galaxy_S20_Plus",
+    "label": "Samsung Galaxy S20 Plus"
+  },
+  {
+    "value": "Samsung_Galaxy_S20_Ultra",
+    "label": "Samsung Galaxy S20 Ultra"
+  },
+  {
+    "value": "Samsung_Galaxy_A52",
+    "label": "Samsung Galaxy A52"
+  },
+  {
+    "value": "Samsung_Galaxy_A72",
+    "label": "Samsung Galaxy A72"
+  },
+  {
+    "value": "Samsung_Galaxy_A32",
+    "label": "Samsung Galaxy A32"
+  },
+  {
+    "value": "Samsung_Galaxy_Z_Flip",
+    "label": "Samsung Galaxy Z Flip"
+  },
+  {
+    "value": "Samsung_Galaxy_Z_Fold2",
+    "label": "Samsung Galaxy Z Fold 2"
+  },
+  {
+    "value": "Samsung_Galaxy_Z_Fold3",
+    "label": "Samsung Galaxy Z Fold 3"
+  },
+  {
+    "value": "Google_Pixel_6",
+    "label": "Google Pixel 6"
+  },
+  {
+    "value": "Google_Pixel_6_Pro",
+    "label": "Google Pixel 6 Pro"
+  },
+  {
+    "value": "Google_Pixel_5",
+    "label": "Google Pixel 5"
+  },
+  {
+    "value": "Google_Pixel_4a",
+    "label": "Google Pixel 4a"
+  },
+  {
+    "value": "Huawei_P40_Pro",
+    "label": "Huawei P40 Pro"
+  },
+  {
+    "value": "Huawei_P30_Pro",
+    "label": "Huawei P30 Pro"
+  },
+  {
+    "value": "OnePlus_9_Pro",
+    "label": "OnePlus 9 Pro"
+  },
+  {
+    "value": "OnePlus_9",
+    "label": "OnePlus 9"
+  },
+  {
+    "value": "OnePlus_8_Pro",
+    "label": "OnePlus 8 Pro"
+  },
+  {
+    "value": "OnePlus_8",
+    "label": "OnePlus 8"
+  },
+  {
+    "value": "Xiaomi_Redmi_Note_10",
+    "label": "Xiaomi Redmi Note 10"
+  },
+  {
+    "value": "Xiaomi_Redmi_Note_10_Pro",
+    "label": "Xiaomi Redmi Note 10 Pro"
+  },
+  {
+    "value": "Xiaomi_Mi_11",
+    "label": "Xiaomi Mi 11"
+  },
+  {
+    "value": "Xiaomi_Mi_10",
+    "label": "Xiaomi Mi 10"
+  },
+  {
+    "value": "Nokia_8_3_5G",
+    "label": "Nokia 8.3 5G"
+  },
+  {
+    "value": "Motorola_Moto_G100",
+    "label": "Motorola Moto G100"
+  },
+  {
+    "value": "Motorola_Moto_G60",
+    "label": "Motorola Moto G60"
+  },
+  {
+    "value": "Motorola_Moto_E7_Plus",
+    "label": "Motorola Moto E7 Plus"
+  },
+  {
+    "value": "Universal",
+    "label": "Universal (for all devices)"
+  },
+  {
+    "value": "Custom",
+    "label": "Custom (tailored for specific phone models)"
+  }
+]

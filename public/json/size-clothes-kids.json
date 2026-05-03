@@ -1,0 +1,58 @@
+[
+  {
+    "value": "0-3m",
+    "label": "0-3 Months"
+  },
+  {
+    "value": "3-6m",
+    "label": "3-6 Months"
+  },
+  {
+    "value": "6-12m",
+    "label": "6-12 Months"
+  },
+  {
+    "value": "12-18m",
+    "label": "12-18 Months"
+  },
+  {
+    "value": "18-24m",
+    "label": "18-24 Months"
+  },
+  {
+    "value": "2T",
+    "label": "2T (Toddler)"
+  },
+  {
+    "value": "3T",
+    "label": "3T (Toddler)"
+  },
+  {
+    "value": "4T",
+    "label": "4T (Toddler)"
+  },
+  {
+    "value": "5T",
+    "label": "5T (Toddler)"
+  },
+  {
+    "value": "S",
+    "label": "Small (Kids)"
+  },
+  {
+    "value": "M",
+    "label": "Medium (Kids)"
+  },
+  {
+    "value": "L",
+    "label": "Large (Kids)"
+  },
+  {
+    "value": "XL",
+    "label": "Extra Large (Kids)"
+  },
+  {
+    "value": "XXL",
+    "label": "2XL (Kids)"
+  }
+]

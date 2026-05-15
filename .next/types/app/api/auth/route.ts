@@ -1,4 +1,4 @@
-// File: D:\vali\dashboard\src\app\api\auth\route.ts
+// File: D:\freelance\vali\dashboard\src\app\api\auth\route.ts
 import * as entry from '../../../../../src/app/api/auth/route.js'
 import type { NextRequest } from 'next/server.js'
 

@@ -1,4 +1,4 @@
-// File: D:\vali\dashboard\src\app\[lng]\dashboard\payment-methods\page.tsx
+// File: D:\freelance\vali\dashboard\src\app\[lng]\dashboard\payment-methods\page.tsx
 import * as entry from '../../../../../../src/app/[lng]/dashboard/payment-methods/page.js'
 import type { ResolvingMetadata, ResolvingViewport } from 'next/dist/lib/metadata/types/metadata-interface.js'
 

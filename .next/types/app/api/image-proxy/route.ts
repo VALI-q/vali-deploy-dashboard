@@ -1,4 +1,4 @@
-// File: D:\freelance\vali\dashboard\src\app\api\image-proxy\route.ts
+// File: D:\vali\dashboard\src\app\api\image-proxy\route.ts
 import * as entry from '../../../../../src/app/api/image-proxy/route.js'
 import type { NextRequest } from 'next/server.js'
 

@@ -24,6 +24,11 @@ const nextConfig: NextConfig = {
         hostname: "vali-backend.gloryna.com",
         pathname: "/**",
       },
+      {
+        protocol: "https",
+        hostname: "api.valiportal.net",
+        pathname: "/**",
+      },
     ],
   },
   // reactStrictMode: true,
